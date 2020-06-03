@@ -7,8 +7,13 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-[Ll]ogs/
-[Mm]emoryCaptures/
+<<<<<<< HEAD
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+=======
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+>>>>>>> af07c18590f9cecdd65b0ecc49aeffdb783aa31a
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
